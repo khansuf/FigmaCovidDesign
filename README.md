@@ -24,4 +24,5 @@ Prototype
   
 
 
-Public URL: https://www.figma.com/file/JQhdhjbSnW8UnMQ1pqaPsM/khansufAssignment-2?node-id=20%3A2
+Public URL: https://www.figma.com/file/JQhdhjbSnW8UnMQ1pqaPsM/khansufAssignment-2?node-id=20%3A2  
+Video URL: https://drive.google.com/file/d/1_uSi7acQ_YgBXs9gGo1l-fWUOkNSaQ9Y/view?usp=sharing  
