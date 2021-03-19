@@ -10,7 +10,7 @@ Design
 ![image](https://user-images.githubusercontent.com/75972709/111717381-502e0b00-882e-11eb-8a7e-526a093bf374.png)  
   
 Prototype  
-![image](https://user-images.githubusercontent.com/75972709/111717390-54f2bf00-882e-11eb-8e82-8ffde1ee4f75.png)  
+![image](https://user-images.githubusercontent.com/75972709/111717781-245f5500-882f-11eb-964c-abdc4e0e074c.png)
   
   
   
