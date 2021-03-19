@@ -2,9 +2,9 @@
 
 This is an HCI Assignment where we must implement common HCI/UX Mistakes that were made within Assignment 1
 
-Screenshots
-Consumer:
-Design
+
+![image](https://user-images.githubusercontent.com/75972709/111717599-b87cec80-882e-11eb-89c0-38e7b1de7518.png)  
+
 ![image](https://user-images.githubusercontent.com/75972709/111717381-502e0b00-882e-11eb-8a7e-526a093bf374.png)
 
 Prototype
