@@ -1,3 +1,4 @@
+
 # FigmaCovidDesign
 
 This is an HCI Assignment where we must implement common HCI/UX Mistakes that were made within Assignment 1
@@ -7,10 +8,10 @@ Screenshots
 Consumer:  
   
 Design  
-![image](https://user-images.githubusercontent.com/75972709/111717381-502e0b00-882e-11eb-8a7e-526a093bf374.png)  
+![Screen Shot 2021-04-07 at 9 29 51 PM](https://user-images.githubusercontent.com/75972709/113954740-69e8bf80-97e8-11eb-830f-148cfc787f4c.png)
   
 Prototype  
-![image](https://user-images.githubusercontent.com/75972709/111717781-245f5500-882f-11eb-964c-abdc4e0e074c.png)
+![Screen Shot 2021-04-07 at 9 30 36 PM](https://user-images.githubusercontent.com/75972709/113954775-7ff68000-97e8-11eb-8ac4-cbc73d7fda11.png)
   
   
   
